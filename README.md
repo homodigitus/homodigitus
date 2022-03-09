@@ -1,5 +1,13 @@
-<h1 align="center">Hi 👋, I'm Murat</h1>
+<h1 align="center">Hi 👋, I'm Murat Öztürkmen, PhD</h1>
 <h3 align="center">A passionate Principal Data Scientist from Turkey</h3>
+
+- 👨‍💻 All of my projects are available at [https://github.com/homodigitus?tab=repositories](https://github.com/homodigitus?tab=repositories)
+
+- 📝 I regularly write articles on [https://medium.com/@mozturkmen](https://medium.com/@mozturkmen)
+
+- 💬 Ask me about **Data Science, Machine Learning, Artificial Intelligence and Economics**
+
+- 📄 Know about my experiences [https://www.linkedin.com/in/mozturkmen/?locale=en_US](https://www.linkedin.com/in/mozturkmen/?locale=en_US)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
