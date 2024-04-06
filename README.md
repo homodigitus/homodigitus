@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Murat Öztürkmen, PhD</h1>
-<h3 align="center">A passionate Principal Data Scientist from Turkey</h3>
+<h3 align="center">A passionate Lead Data Scientist from Turkey</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/homodigitus?tab=repositories](https://github.com/homodigitus?tab=repositories)
 
